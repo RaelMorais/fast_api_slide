@@ -17,3 +17,6 @@ Teste de Path parameters
 ```http://127.0.0.1:8000/products?name=Smartphone```
 
 Teste de Query paremeters
+
+
+Slides: https://www.canva.com/design/DAGixnBzRRg/LoS8SxLdFPn3VXib-HnXng/view?utm_content=DAGixnBzRRg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9e3278fcbe
